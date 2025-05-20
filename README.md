@@ -23,3 +23,8 @@ User inputs the OTP received in their email.
 System verifies OTP:
 If correct: Access granted.
 If incorrect: Retry prompts up to 3 attempts.
+
+# Testing & Scenario
+
+![image](https://github.com/user-attachments/assets/bda65606-c5d5-4378-bb2b-4029adb1b1d1)
+
