@@ -24,7 +24,12 @@ System verifies OTP:
 If correct: Access granted.
 If incorrect: Retry prompts up to 3 attempts.
 
-# Testing & Scenario
+# Testing & Scenarios
+Valid OTP entered: Access granted.
+Invalid OTP entered: Access Denied.
+         1. Incorrect OTP:
+         2. Incorrect digits entered
+Maximum retry limit reached: Access denied.
 
 ![image](https://github.com/user-attachments/assets/bda65606-c5d5-4378-bb2b-4029adb1b1d1)
 
